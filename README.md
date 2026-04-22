@@ -25,7 +25,8 @@ Central hub for working group outputs and event materials.
 |-------|------------|
 | Detects embedded prompts in AI-generated images to verify authenticity & prevent misuse | [Image Prompt Detection](https://github.com/AI-Safety-UAE/Image-Prompt-Detection) |
 | Analyzes frontier AI models against customizable risk thresholds for safety evaluation | [Frontier AI Risk Threshold Analyzer](https://github.com/swalehaparvin/-Frontier-AI-Risk-Threshold-Analyzer) |
-| Mechanistic approach to build hallucination-resistant AI models | [HalluShield](https://apartresearch.com/project/hallushield-a-mechanistic-approach-to-hallucination-resistant-models) \| [GitHub](https://github.com/naisofly/HalluShield) |
+| AI Incidents Forecasting | [Research](https://apartresearch.com/project/ai-incidents-forecasting-w92p) \| [GitHub](https://github.com/cluebbers/ai-incident-forecasting) |
+| Mechanistic approach to build hallucination-resistant AI models | [Research](https://apartresearch.com/project/hallushield-a-mechanistic-approach-to-hallucination-resistant-models) \| [GitHub](https://github.com/naisofly/HalluShield) |
 | *add new projects here* | |
 
 
