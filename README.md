@@ -17,7 +17,7 @@ Central hub for working group outputs and event materials.
 ## 📜 Governance & Regulation
 | Resource | Description |
 |----------|-------------|
-| *Coming Q2 2026* | Checklists & blogs |
+| [UAE Child Digital Safety Compliance Checklist](./Governance%20Checklists/UAE%20Child%20Digital%20Safety%20Compliance%20Checklist.pdf) | Practical compliance guide for UAE child digital safety obligations, and enforcement. |
 | *Coming Q3 2026* | Policy frameworks TBC |
 
 ## 🔧 Tech & Security
