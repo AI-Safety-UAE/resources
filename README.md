@@ -37,4 +37,5 @@ Central hub for working group outputs and event materials.
 | Mar | [Women's Digital Safety](https://luma.com/jy60mvh4) | [Folder](./Events/2026/Mar) |
 | Apr | [Critical Infrastructure AI Governance](https://luma.com/uwycboi0) | [Folder](./Events/2026/Apr/Critical%20Infrastructure%20AI%20Governance) |
 | Apr | [AI Security Project Showcase](https://luma.com/prdvmbxi) | [Folder](./Events/2026/Apr/AI%20Security%20Project%20Showcase) |
-| Apr | Deepfakes Harming Girls | [Folder](./Events/2026/Apr/Deepfakes%20Harming%20Girls) | *(updated)* |
+| Apr | [Deepfakes Harming Girls](https://www.instagram.com/p/DXgw-D_tSD3/) | [Folder](./Events/2026/Apr/Deepfakes%20Harming%20Girls) | 
+| May | [Compute Governance](https://luma.com/b8wgxa15) | [Folder](./Events/2026/May) | 
