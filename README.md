@@ -39,3 +39,4 @@ Central hub for working group outputs and event materials.
 | Apr | [AI Security Project Showcase](https://luma.com/prdvmbxi) | [Folder](./Events/2026/Apr/AI%20Security%20Project%20Showcase) |
 | Apr | [Deepfakes Harming Girls](https://www.instagram.com/p/DXbgewTNL4d/) | [Folder](./Events/2026/Apr/Deepfakes%20Harming%20Girls) | 
 | May | [Compute Governance](https://luma.com/b8wgxa15) | [Folder](./Events/2026/May) | 
+| May | [Arabic AI Safety Gaps](https://luma.com/74v6s4wz) | [Folder](./Events/2026/June) | 
