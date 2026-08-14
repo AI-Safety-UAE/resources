@@ -9,9 +9,10 @@ Central hub for working group outputs and event materials.
 |--------------------|--------------|
 | [AI Safety Atlas](https://ai-safety-atlas.com/) | [French Center for AI Safety (CeSIA)](https://www.cesia.org/en/qui-sommes-nous) |
 | [AI Safety, Ethics, and Society](https://www.aisafetybook.com/virtual-course) | [Center for AI Safety](https://safe.ai/) |
+| [AI Policy Clinic](https://www.caidp.org/global-academic-network/ai-policy-clinic/) | [Center for AI and Digital Policy](https://www.caidp.org/) |
 | [Future of AI](https://bluedot.org/courses/future-of-ai) | [BlueDot Impact](https://bluedot.org/) |
 | [AGI Strategy](https://bluedot.org/courses/agi-strategy) | [BlueDot Impact](https://bluedot.org/) |
-| [ISO/IEC 42001](https://training-academy.ukas.com/lmt/!clmsbadges.pView?bdg=48e3c9c7-42d7-50eb-e063-6f8d460ad102&src=public) | [UKAS](https://www.ukas.com/) |
+| [ISO/IEC 42001](https://www.aiqi.org/42001-course) | [UKAS](https://www.ukas.com/) |
 | *add new courses here* | |
 
 ## 📜 Governance & Regulation
