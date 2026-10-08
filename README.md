@@ -43,3 +43,4 @@ Central hub for working group outputs and event materials.
 | Jun | [Arabic AI Safety Gaps](https://luma.com/74v6s4wz) | [Folder](./Events/2026/Jun) | 
 | Jul | [Scaling AI Agents Safely](https://luma.com/fmgsicap) | [Folder](./Events/2026/Jul) |
 | Aug | [Regulated AI Agents with DORA & NIS2](https://luma.com/3uzjt2jk) | [Folder](./Events/2026/Aug) |
+| Oct | [AI Policy for Wealth, Power, and Sovereignty](https://www.aieverythingabudhabi.com/agenda) | [Folder](./Events/2026/Oct) |
