@@ -24,6 +24,7 @@ Central hub for working group outputs and event materials.
 ## 🔧 Tech & Security
 | Value | Repository |
 |-------|------------|
+| Starter kit for GCC-focused AI governance, policy implementation, and responsible AI deployment | [AI Gov Starter Kit](https://agibalya2b.github.io/gcc-ai-governance-kit/) |
 | Detects embedded prompts in AI-generated images to verify authenticity & prevent misuse | [Image Prompt Detection](https://github.com/AI-Safety-UAE/Image-Prompt-Detection) |
 | Analyzes frontier AI models against customizable risk thresholds for safety evaluation | [Frontier AI Risk Threshold Analyzer](https://github.com/swalehaparvin/-Frontier-AI-Risk-Threshold-Analyzer) |
 | Mechanistic approach to build hallucination-resistant AI models | [HalluShield](https://apartresearch.com/project/hallushield-a-mechanistic-approach-to-hallucination-resistant-models) \| [GitHub](https://github.com/naisofly/HalluShield) |
@@ -43,4 +44,5 @@ Central hub for working group outputs and event materials.
 | Jun | [Arabic AI Safety Gaps](https://luma.com/74v6s4wz) | [Folder](./Events/2026/Jun) | 
 | Jul | [Scaling AI Agents Safely](https://luma.com/fmgsicap) | [Folder](./Events/2026/Jul) |
 | Aug | [Regulated AI Agents with DORA & NIS2](https://luma.com/3uzjt2jk) | [Folder](./Events/2026/Aug) |
-| Oct | [AI Policy for Wealth, Power, and Sovereignty](https://www.aieverythingabudhabi.com/agenda) | [Folder](./Events/2026/Oct) |
+| Oct | [AI Policy for Wealth, Power, and Sovereignty](https://www.aieverythingabudhabi.com/agenda) | [Folder](./Events/2026/Oct/AI%20Policy%20Workshop)  |
+| Oct | [AI & Cognition Talk](https://www.linkedin.com/feed/update/urn:li:activity:7516430093636755457/) | [Folder](./Events/2026/Oct/AI%20&%20Cognition%20Talk) |
