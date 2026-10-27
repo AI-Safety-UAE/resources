@@ -19,6 +19,7 @@ Central hub for working group outputs and event materials.
 | Resource | Description |
 |----------|-------------|
 | [UAE Child Digital Safety Compliance Checklist](./Governance%20Checklists/UAE%20Child%20Digital%20Safety%20Compliance%20Checklist.pdf) | Practical compliance guide for UAE child digital safety obligations, and enforcement. |
+| [The CBUAE AI Guidance Note on Generative AI: What UAE Banks Must Govern Before the Agents Show Up](https://huggingface.co/blog/Ercin/cbuae-ai-guidance-note-generative-ai) | Practitioner walkthrough of the Central Bank of the UAE AI guidance note for banks deploying generative and agentic AI. |
 | *Coming Q3 2026* | Policy frameworks TBC |
 
 ## 🔧 Tech & Security
