@@ -46,3 +46,4 @@ Central hub for working group outputs and event materials.
 | Aug | [Regulated AI Agents with DORA & NIS2](https://luma.com/3uzjt2jk) | [Folder](./Events/2026/Aug) |
 | Oct | [AI Policy for Wealth, Power, and Sovereignty](https://www.aieverythingabudhabi.com/agenda) | [Folder](./Events/2026/Oct/AI%20Policy%20Workshop)  |
 | Oct | [AI & Cognition Talk](https://www.linkedin.com/feed/update/urn:li:activity:7516430093636755457/) | [Folder](./Events/2026/Oct/AI%20&%20Cognition%20Talk) |
+| Nov | Quantifying Residual Safety Risk in Aligned Language Models | [Folder](./Events/2026/Nov) |
